@@ -161,7 +161,7 @@ Output:
 
 ## Dataset
 
-[Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (Kaggle)
+Kaggle - [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) (Kaggle)
 
 - 7,043 customers, 21 features
 - Binary target (churn yes/no)
